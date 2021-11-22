@@ -1,0 +1,8 @@
+[9 November 2021 - 14:27:52] Response: index
+[9 November 2021 - 14:28:49] Response: index [REQUEST IP] ::1
+[9 November 2021 - 14:40:35 / ::1 ] Response: index_post
+[9 November 2021 - 14:40:45 / ::1 ] Response: index_post
+[9 November 2021 - 14:40:56 / ::1 ] Response: index_post
+[9 November 2021 - 14:41:20 / ::1 ] Response: index_post
+[9 November 2021 - 14:41:36 / ::1 ] Response: index_post
+[9 November 2021 - 14:41:48 / ::1 ] Response: index_post

@@ -1,0 +1,12 @@
+[17 November 2021 - 21:19:35 / ::1 ] From authController has response: logout => 200
+[17 November 2021 - 21:20:18 / ::1 ] From authController has response: logout => 200
+[17 November 2021 - 21:20:25 / ::1 ] From authController has response: index => 200
+[17 November 2021 - 21:20:29 / ::1 ] From authController has response: index => 200
+[17 November 2021 - 21:20:49 / ::1 ] From authController has response: index => 200
+[17 November 2021 - 21:21:39 / ::1 ] From authController has response: index => 200
+[17 November 2021 - 21:25:01 / ::1 ] From authController has response: index => 200
+[17 November 2021 - 21:25:09 / ::1 ] From authController has response: index => 200
+[17 November 2021 - 21:25:15 / ::1 ] From authController has response: index => 200
+[17 November 2021 - 21:25:17 / ::1 ] From authController has response: index => 200
+[17 November 2021 - 21:26:14 / ::1 ] From authController has response: index => 200
+[17 November 2021 - 21:42:14 / ::1 ] From authController has response: index => 200
